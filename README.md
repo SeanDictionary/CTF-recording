@@ -18,4 +18,5 @@
 | **[0xGame 2024-Crypto-Week 1~4](/0xGame-2024/0xGame-2024-Crypto.md)**               | 2024年11月7日  | 手动移步                                                              |          \          | 新生赛 |
 | **[0xGame 2024-其他](/0xGame-2024)**                                                | 2024年11月7日  | 手动移步                                                              |          \          | 新生赛 |
 | **[第二届长城杯 2024](第二届长城杯-2024\writeup.md)**                               | 2024年12月15日 | [博客链接](https://seandictionary.top/%e9%95%bf%e5%9f%8e%e6%9d%af-2024/) |  RP.350   RK.1137  | 区域赛 |
-| **[CN-fnst::CTF 隼目 2024](隼目CN-fnst-2024\隼目CN-fnst-2024.md)**                  | 2024年12月15日 | [博客链接](https://seandictionary.top/cn-fnst/)                          | RP.3142    RK.17 |   \   |
+| **[CN-fnst::CTF 隼目 2024](隼目CN-fnst-2024\隼目CN-fnst-2024.md)**                  | 2024年12月15日 | [博客链接](https://seandictionary.top/cn-fnst/)                          | RP.3142    RK.17 |常规赛|
+| **[RDCTF 2024]()**                                                                 | 2025年 1月10日 | [博客链接]()                                                           |          \          |**出题人**|
