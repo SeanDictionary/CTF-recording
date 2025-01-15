@@ -21,5 +21,3 @@
 | **[CN-fnst::CTF 隼目 2024](/隼目CN-fnst-2024/隼目CN-fnst-2024.md)**                 | 2024年12月15日 | [博客链接](https://seandictionary.top/cn-fnst/)                          | RP.3142    RK.17    |      常规赛      |
 | **[RDCTF 2024]()**                                                                  | 2025年 1月10日 | [博客链接]()                                                             |          \          |    **出题人**    |
 | **[HGAME 2024](/HGAME-2024/HGAME_2024_Crypto.md)**                                  | 2025年 1月16日 | [博客链接](https://seandictionary.top/hgame-2024/)                       |          \          |       复现       |
-你好 |
-ancd |
