@@ -4,8 +4,8 @@
 
 所有wp都发布于[个人博客](https://seandictionary.top)上，此库内wp可能更新不及时，请移步个人博客
 
-| 名称                                                                                   | 更新时间       | 博客链接                                                                   |         战绩          |       性质       |
-| -------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------- | :-------------------: | :--------------: |
+| 名称                                                                                | 更新时间       | 博客链接                                                                   |         战绩          |       性质       |
+| ----------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------- | :-------------------: | :--------------: |
 | **[buuctf-crypto](/buuctf/buuctf-crypto.md)**                                       | 2024年10月  5日   | [博客链接](https://seandictionary.top/buuctf-crypto/)                      |           \           |       靶场       |
 | **[buuctf-misc](/buuctf/buuctf-misc.md)**                                           | 2024年10月  5日   | [博客链接](https://seandictionary.top/buuctf-misc/)                        |           \           |       靶场       |
 | **[buuctf-reverse](/buuctf/buuctf-reverse.md)**                                     | 2024年10月11日    | [博客链接](https://seandictionary.top/buuctf-reverse/)                     |           \           |       靶场       |
@@ -23,3 +23,4 @@
 | **[HGAME 2024](/HGAME-2024/HGAME_2024_Crypto.md)**                                  | 2025年  1月16日   | [博客链接](https://seandictionary.top/hgame-2024/)                         |           \           |       复现       |
 | **[启航杯 2025](/启航杯-2025/writeup.md)**                                          | 2025年  1月26日   | [博客链接](https://seandictionary.top/hgame-2024/)                         | RP.911          RK.49 |      常规赛      |
 | **[VNCTF 2025](/VNCTF-2025/VNCTF.md)**                                              | 2025年  2月  9日  | [博客链接](https://seandictionary.top/vnctf-2025/)                         | RP.2866         RK.30 |      招新赛      |
+| **[HGAME 2025](/HGAME-2025/writeup.md)**                                            | 2025年  2月28日   | [博客链接](https://seandictionary.top/hgame-2025/)                         | RP.8220         RK.21 |      新生赛      |
