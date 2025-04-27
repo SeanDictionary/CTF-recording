@@ -26,3 +26,4 @@
 | **[HGAME 2025](/HGAME/writeup.md)**                                                 | 2025年  2月28日   | [博客链接](https://seandictionary.top/hgame-2025/)                         | RP.8220         RK.21 |      新生赛      |
 | **[GHCTF 2025](/GHCTF/GHCTF.md)**                                                   | 2025年  3月  8日  | [博客链接](https://seandictionary.top/ghctf-2025/)                         | RP.11416         RK.2 |      新生赛      |
 | **[NCTF 2025](/NCTF/NCTF.md)**                                                      | 2025年  4月27日   | [博客链接](https://seandictionary.top/nctf-2024/)                          | RP.1432         RK.19 |      常规赛      |
+| **[XYCTF 2025](/XYCTF/XYCTF.md)**                                                   | 2025年  4月27日   | [博客链接](https://seandictionary.top/xyctf-2025/)                         | RP.1483         RK.39 |      常规赛      |
