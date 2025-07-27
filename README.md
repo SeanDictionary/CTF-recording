@@ -29,6 +29,7 @@
 | **[XYCTF 2025](/XYCTF/XYCTF.md)**                                                   | 2025年  4月27日   | [博客链接](https://seandictionary.top/xyctf-2025/)                         | RP.1483         RK.39 |      常规赛      |
 | **[Mini L-CTF 2025](/miniL/2025.md)**                                               | 2025年  5月  9日  | [博客链接](https://seandictionary.top/mini-l-ctf-2025/)                    | RP.7197          RK.5 |      招新赛      |
 | **[CMCTF 2025](/CMCTF/CMCTF-2025%20wp.md)**                                         | 2025年  6月16日   | [博客链接](https://seandictionary.top/cmctf-2025/)                         | RP.????          RK.6 |      新生赛      |
+| **[NepCTF 2025](/NepCTF/writeup.md)**                                               | 2025年  7月27日   | [博客链接](https://seandictionary.top/nepctf-2025/)                        | RP.3001         RK.16 |      招新赛      |
 
 
 
